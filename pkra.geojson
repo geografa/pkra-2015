@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -79.70136880874634,
+          8.651074827330495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Feb-19-2014 - Feb-23-2014. Freestyle.",
+        "id": "1",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Nitro City - Panama"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -15.769307613372801,
+          23.88901608621184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Mar-18-2014 - Mar-23-2014. Freestyle and Wave. ",
+        "id": "2",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Dakhla Kiteboarding World Cup"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0234289169311523,
+          42.93261022681827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Apr-26-2014 - May-01-2014. Freestyle",
+        "id": "3",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Mondial Du Vent 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.835955,
+          47.852217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "May-01-2014 - May-04-2014. Slalom",
+        "id": "4",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Surf World Cup Austria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.95256042480469,
+          26.836784835427206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "May-28-2014 - Jun-01-2014. Freestyle",
+        "id": "5",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "The Red Sea Kitesurf World Cup 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.108701705932617,
+          42.18013342451605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Jun-28-2014 - Jul-04-2014. N/A",
+        "id": "6",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "IKA PKRA Kiteboarding Freestyle Junior World Championships"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -14.232959747314453,
+          28.151168127780405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Jul-19-2014 - Jul-24-2014. Freestyle and Slalom",
+        "id": "7",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "FUERTEVENTURA KITEBOARDING PKRA GRAND SLAM 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.674049377441406,
+          54.338346069999965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Aug-02-2014 - Aug-10-2014. Freestyle and Slalom",
+        "id": "8",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Think Blue. Kitesurf World Cup 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.611782073974609,
+          36.019010380413604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Aug-30-2014 - Sep-07-2014. Freestyle",
+        "id": "10",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Tarifa Pro Kite Tour 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -41.411394,
+          -2.913604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Sep-17-2014 - Sep-21-2014. Freestyle",
+        "id": "11",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Barra Grande Kiteboarding Grand Slam"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.78187561035156,
+          25.52447355144278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Oct-25-2014 - Oct-29-2014. Freestyle and Slalom",
+        "id": "12",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Pingtan Kiteboarding World Cup 2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33638000488281,
+          20.042385551516542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Nov-01-2014 - Nov-05-2014. Freestyle",
+        "id": "13",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "014 PKRA WORLD TOUR HAIKOU EVENT/HAINAN INTERNATIONAL KITESURF FESTIVAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.156155,
+          41.404101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Producers, Directors ans specialists will fly out of this city and be based here when there is no live event.",
+        "id": "99",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [0,0],
+            "popupAnchor": [15,0],
+            "className": "dot"
+        },
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Barcelona - Tour Home Base"
+      },
+      "type": "Feature"
+    }
+  ]
+}

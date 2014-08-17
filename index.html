@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>List markers and pan to clicked items</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    .leaflet-popup-content {background: #B44176; color: #fff; border-color: #fff; border-radius:12px; margin: 6px;}
+    .leaflet-popup-content-wrapper {border-radius: 12px; background: #B44176; color: #fff; width: 250px;}
+    .leaflet-popup-content a {color: #bada55;}
+    .leaflet-popup-content h2 {font-size:32px;}
+    .leaflet-popup-content a:hover {color: #d8fc62;}
+    .leaflet-popup-tip {border-top: 10px solid #B44176;}
+</style>
+</head>
+<body>
+
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+  #marker-list {
+      position:absolute;
+      top:0; right:0; width:200px;
+      bottom:0;
+      overflow-x:auto;
+      background:#fff;
+      margin:0;
+      padding:5px;
+  }
+  #marker-list li {
+      padding:5px;
+      margin:0;
+      list-style-type:none;
+  }
+  #marker-list li:hover {
+      background:#eee;
+  }
+</style>
+<div id='map'></div>
+<ul id='marker-list'></ul>
+<script>
+    L.mapbox.accessToken = 'pk.eyJ1IjoiZ3JhZmEiLCJhIjoiU2U2QnIzUSJ9.4LnG05Ptvi1sUQ8t68rfgw';
+    
+    var map = L.mapbox.map('map', 'grafa.ikgh3782')
+        .setView([20,0],3);
+    var markerList = document.getElementById('marker-list');
+
+    var locations = L.mapbox.featureLayer().addTo(map);
+
+    locations.loadURL('pkra.geojson');
+
+
+    locations.on('ready', function(e) {
+      locations.eachLayer(function(layer) {
+            var item = markerList.appendChild(document.createElement('li'));
+            var props = layer.toGeoJSON().properties;
+            item.innerHTML = '<h2>'+ props.id + '</h2>' + props.title;
+            layer.bindPopup('<h3>' + props.title + '</h3>' + props.img);
+        item.onclick = function() {
+            map.setView(layer.getLatLng(), 14);
+            // layer.bindPopup('<h3>' + props.title + '</h3>' + props.img);
+            layer.openPopup();
+        };
+        layer.setIcon(L.icon(props.icon));
+      });
+    });
+
+</script>
+
+
+</body>
+</html>
