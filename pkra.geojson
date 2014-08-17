@@ -4,6 +4,31 @@
     {
       "geometry": {
         "coordinates": [
+          2.156155,
+          41.404101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Producers, Directors ans specialists will fly out of this city and be based here when there is no live event.",
+        "id": "PKRA Base",
+        "icon": {
+            "iconUrl": "kitesurfing.png",
+            "iconSize": [32,37],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
+            "className": "dot"
+        },
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
+        "title": "Barcelona - Tour Home Base"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -79.70136880874634,
           8.651074827330495
         ],
@@ -15,8 +40,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -38,8 +63,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -61,8 +86,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -84,8 +109,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -107,8 +132,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -130,8 +155,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -153,8 +178,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -176,8 +201,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -199,8 +224,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -222,8 +247,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -245,8 +270,8 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
@@ -268,37 +293,12 @@
         "icon": {
             "iconUrl": "kitesurfing.png",
             "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
+            "iconAnchor": [16,37],
+            "popupAnchor": [0,-37],
             "className": "dot"
         },
         "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
         "title": "014 PKRA WORLD TOUR HAIKOU EVENT/HAINAN INTERNATIONAL KITESURF FESTIVAL"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          2.156155,
-          41.404101
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Producers, Directors ans specialists will fly out of this city and be based here when there is no live event.",
-        "id": "99",
-        "icon": {
-            "iconUrl": "kitesurfing.png",
-            "iconSize": [32,37],
-            "iconAnchor": [0,0],
-            "popupAnchor": [15,0],
-            "className": "dot"
-        },
-        "marker-color": "#f86767",
-        "marker-size": "large",
-        "img": "<img src='https://i.cloudup.com/EIiX3CzX5i-3000x3000.jpeg' />",
-        "title": "Barcelona - Tour Home Base"
       },
       "type": "Feature"
     }
